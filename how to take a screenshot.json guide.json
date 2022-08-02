@@ -1,0 +1,62 @@
+[{
+		"name": "How do you take a screenshot easily?",
+		"description": "To take a screenshot on your Android phone, hold down the power button for a few seconds and press “Screenshot” on your phone screen. If that doesn't work, hold the Power and Volume buttons at the same time for a few seconds.",
+		"img": "https://cdn.alzashop.com/Foto/ImgGalery/Image/snimek-obrazovky-android.jpg"
+	
+	}, {
+		"name": "How do you take a quick screenshot on iphone?",
+		"description": "Press the side button and the volume up button at the same time. Quickly release both buttons. After you take a screenshot, a thumbnail temporarily appears in the lower-left corner of your screen.",
+		"img": "https://beebom.com/wp-content/uploads/2018/11/How-to-Take-a-Screenshot-on-iPhone.jpg"
+	
+  }, {
+		"name": "How do you take screenshot on Android?",
+		"description": "Hold down the power button and press the volume-down button. Or... Go to the app and / or page you want to take a screenshot of. Swipe up from the bottom of the screen to the Recents screen; you'll see a button for Screenshot at the bottom of the screen.",
+		"img": "https://cdn.mos.cms.futurecdn.net/adRL2de427jxTBASzoxtJX.jpg"
+    
+    }, {
+		"name": "How do I take a screenshot without pressing the button?",
+		"description": "To take a screenshot without the power button on Android, open Google Assistant and say “Take a screenshot”. It'll automatically snap your screen and open the share sheet straightaway.",
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKGEOE-CsveSowQx5RDtB04mboGaaIM6PsQ&usqp=CAU"
+	
+	
+  }, {
+		"name": "How do you screenshot on iPhone without button?",
+		"description": "Launch Settings on your iPhone and go to Accessibility. Tap Touch and scroll down to select Back Tap. You will have two options here, Double Tap and Triple Tap; select the option you prefer. Now, choose Screenshot from the given list of options.",
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBEYmvUsLWKdMmOWCLLqEbWjBZKpjSASWVPA&usqp=CAU"
+	
+  }, {
+		"name": "How do you take screenshots on laptops?",
+		"description": "If you only want to grab a screenshot of the active window or a specific portion of the screen, press the Shift, Command, and 4 keys together. Press the Spacebar to capture an active window or click and drag to highlight a portion of the screen, then release to capture it.",
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI85KVtNPC6dCffgwbevqvMab8hhOuuuRdpaWHca_Aco4tveBDWWHjCPrlhfAu4lTeYxE&usqp=CAU"
+	
+  }, {
+		"name": "How do I take a screenshot on Windows keyboard?",
+		"description": "Depending on your hardware, you may use the Windows Logo Key + PrtScn button as a shortcut for print screen. If your device does not have the PrtScn button, you may use Fn + Windows logo key + Space Bar to take a screenshot, which can then be printed.",
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbvlRIwSnALGnPaNaiiecIixo85uz4zfs3Wmd8-hvLRTA2X6KC7wXaQ5VPkwuXNfGkdx8&usqp=CAU"
+	
+  }, {
+		"name": "How do I take a screenshot on Windows 11?",
+		"description": "Shift + Windows logo key + S brings up the Snipping Tool. If you want something a little more refined, like, for example, to take a screenshot of a specific window or part of the screen, you can use the Snipping Tool that comes with Windows 11. To access the toolbar, press Shift + Windows logo key + S.",
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0dIu2VY_8z0iGonjQgjq9EhSP183Y7JXWurDg2pmU38u-ZIf8Utzkn3IT1tPkMiPMmUU&usqp=CAU"
+	
+  }, {
+		"name": "What is the shortcut for taking a screenshot on laptop?",
+		"description": "Take a screenshot using shortcut keys:The simplest way to capture a screenshot is to press the Windows Key and the 'PrtScn' (PrintScreen) button together. It is usually located in the top row near the function keys. A save box will appear.",
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgNj4RcEF7QRfYSIdZ2ZGjEMXRfVcKwzhbEkoqDUyeQZfEx3SKd1SasCuQz5QGdUiA1JQ&usqp=CAU"
+	
+	}, {
+		"name": "Why can't I take a screenshot on my iPhone?",
+		"description": "It can be frustrating when you want to take a screenshot but your iPhone is frozen and unresponsive for unknown errors. In that case, you can press and hold the Power and Home buttons at the same time, but make sure to press the Power button a second before the Home button, which is the small change in iOS 10.",
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqI48DDBdNeEnf21lKThPtg0mWvXaHFbwubA&usqp=CAU"
+	
+  }, {
+		"name": "Where is my screenshot?",
+		"description": "Screenshots are typically saved to the “Screenshots” folder on your device. For example, to find your images in the Google Photos app, navigate to the “Library” tab. Under the “Photos on Device” section, you'll see the “Screenshots” folder.",
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtgh5b0rdS1UyBRXB03zVe4WFVPKU86aYlQ&usqp=CAU"
+	
+	}, { 
+		"name": "Where do you find screenshots on iPhone?",
+		"description": "Tap the screenshot in the lower-left corner, then tap Done. Choose Save to Photos, Save to Files, or Delete Screenshot. If you choose Save to Photos, you can view it in the Screenshots album in the Photos app, or in the All Photos album if iCloud Photos is turned on in Settings > Photos.",
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSouuvSEEpzRoctCoROsxNNFmbROPmktHp3xA&usqp=CAU"
+	}
+]

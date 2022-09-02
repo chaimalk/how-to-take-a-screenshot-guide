@@ -3,7 +3,7 @@
 
 		"AdsController": {
 
-			"NetworkAds": "unity",
+			"NetworkAds": "admob",
 
 			"BannerAdmob": "ca-app-pub-7448804041969308/7887913821",
 			"InterstitialAdmob": "ca-app-pub-7448804041969308/9179710544",

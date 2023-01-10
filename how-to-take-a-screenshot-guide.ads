@@ -5,8 +5,8 @@
 
 			"NetworkAds": "admob",
 
-			"BannerAdmob": "ca-app-pub-7448804041969308/7887913821",
-			"InterstitialAdmob": "ca-app-pub-7448804041969308/9179710544",
+			"BannerAdmob": "ca-app-pub-3925188110245800/4989356816",
+			"InterstitialAdmob": "ca-app-pub-3925188110245800/3249464382",
 
 			"BannerFacebook": "597470655288389_597472231954898",
 			"InterstitialFacebook": "597470655288389_597472385288216",

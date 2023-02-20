@@ -5,11 +5,11 @@
 
 			"NetworkAds": "unity",
 
-			"BannerAdmob": "ca-app-pub-3925188110245800/4989356800",
-			"InterstitialAdmob": "ca-app-pub-3925188110245800/3249464300",
+			"BannerAdmob": "ca-app-pub-3925188110245800/4900356800",
+			"InterstitialAdmob": "ca-app-pub-3925188110245800/3249004300",
 
-			"BannerFacebook": "597470655288389_597472231954800",
-			"InterstitialFacebook": "597470655288389_597472385200216",
+			"BannerFacebook": "597470655288389_597472230054800",
+			"InterstitialFacebook": "597470655288389_597470085200216",
 			
 			"unityGameID": "4869147",
 			"UnityPlacement": "Interstitial_Android",
